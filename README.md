@@ -69,6 +69,3 @@ This will serve the production build locally on http://localhost:5000
 - Exporting the canvas content as an image or PDF.
 - Advanced screen recording options.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
